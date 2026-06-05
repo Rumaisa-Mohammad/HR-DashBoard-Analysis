@@ -248,7 +248,7 @@ This dashboard helps organizations:
 - Improve HR decision-making.
 
 ## 📷 Dashboard Snapshot
-![HR Dashboard](Screenshots/HR_Dashboard.pn)
+![HR Dashboard]()
 
 
 
