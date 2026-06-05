@@ -1,8 +1,8 @@
 
 # 📊 HR Analytics Dashboard | Power BI
 
-## 📷 Dashboard Snapshot
-![HR Dashboard]( )
+## 📷 Dashboard
+![HR Dashboard]( HR DASHBOARD IMG.png)
 
 ## 📌 Project Overview
 
